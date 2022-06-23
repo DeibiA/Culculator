@@ -1,6 +1,6 @@
 const resultado = document.querySelector(".result");
 const btnAc = document.querySelector(".ac");
-const back  = document.querySelector('.neg')
+const backs = document.querySelector('.neg')
 
 function insert(valor) {
     resultado.value += valor;
